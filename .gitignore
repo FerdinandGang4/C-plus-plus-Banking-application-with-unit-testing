@@ -1,0 +1,15 @@
+Debug/
+Release/
+x64/
+*.exe
+*.obj
+*.pdb
+*.dll
+.vs/
+*.user
+*.idb
+*.ilk
+*.res
+.DS_Store
+Thumbs.db
+
