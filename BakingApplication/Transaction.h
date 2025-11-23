@@ -3,8 +3,8 @@
 class Transaction
 {
 public:
-	Transaction();
-	~Transaction();
+	//Transaction();
+	//~Transaction();
 
 private:
 

@@ -3,8 +3,8 @@
 class Customer
 {
 public:
-	Customer();
-	~Customer();
+	//Customer();
+	//~Customer();
 
 private:
 

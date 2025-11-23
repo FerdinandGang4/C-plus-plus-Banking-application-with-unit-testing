@@ -10,9 +10,10 @@ private:
 	Customer customer;
 
 public:
-	Account();
+	Account(int number, double balance, Customer customer);
 	~Account();
-	void deposit();
-	void withdraw();
-	void getBalance();
+	void deposit(double amount);
+	double withdraw(double amount);
+	double getBalance();
+	void setBalance(double amount);
 };

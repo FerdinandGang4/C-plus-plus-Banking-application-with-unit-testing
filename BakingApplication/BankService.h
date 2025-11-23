@@ -3,8 +3,8 @@
 class BankService
 {
 public:
-	BankService();
-	~BankService();
+	//BankService();
+	//~BankService();
 
 private:
 
